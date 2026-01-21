@@ -29,9 +29,9 @@ npx @ahoybuoy/cli check
 
 ### @buoy Mentions
 
-Install the [Buoy GitHub App](https://buoy.design) and mention `@ahoybuoy` in any PR comment:
+Install the [Buoy GitHub App](https://github.com/apps/buoy-design) and mention `@buoy-design` in any PR comment:
 
-> @ahoybuoy why is this color hardcoded?
+> @buoy-design why is this color hardcoded?
 
 Buoy will analyze your code and respond with design system context.
 
