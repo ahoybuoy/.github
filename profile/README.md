@@ -2,8 +2,7 @@
 
 **Design system linting and drift detection for modern frontend teams.**
 
-Buoy helps teams maintain design consistency by detecting when code drifts from your design system. Like ESLint for your design tokens.
-
+Buoy helps teams maintain design consistency by detecting when code drifts from your design system. 
 ## What We Build
 
 | Project | Description |
